@@ -1,0 +1,15 @@
+{
+  "name": "stream-merge-sort",
+  "version": "0.0.1",
+  "description": "A streaming merge sort written in Node.js",
+  "dependencies": {
+    "event-stream": "~3.0.14"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "latest"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
