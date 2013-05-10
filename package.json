@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "A streaming merge sort written in Node.js",
   "dependencies": {
-    "event-stream": "~3.0.14"
+    "event-stream": "~3.0.14",
+    "node-uuid": "latest"
   },
   "devDependencies": {
     "mocha": "latest",
